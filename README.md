@@ -1,2 +1,2 @@
 # Project-07
-This is an assignment for DIGITAL DESIGN at Herron
+This is an assignment for Digital Design
